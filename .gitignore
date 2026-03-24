@@ -1,0 +1,9 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+# Salidas generadas (CSV, mapas, series); no versionar datos pesados
+output/
+series_filtradas_envolvente/
+mapas_shapefile/
+*.sr.lock
